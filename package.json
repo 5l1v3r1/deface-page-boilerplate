@@ -1,0 +1,33 @@
+{
+  "name": "deface-page-boilerplate",
+  "version": "1.0.0",
+  "description": "A Perfect Deface Page Builder for Ethical Hackers.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarenGonzaga/deface-page-boilerplate.git"
+  },
+  "keywords": [
+    "Deface",
+    "Page",
+    "Boilerplate",
+    "Ethical",
+    "Hackers",
+    "Pentesting",
+    "Reporting."
+  ],
+  "author": "Waren Gonzaga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WarenGonzaga/deface-page-boilerplate/issues"
+  },
+  "homepage": "https://github.com/WarenGonzaga/deface-page-boilerplate#readme",
+  "devDependencies": {
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-util": "^3.0.8"
+  }
+}
